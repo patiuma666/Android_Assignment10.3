@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <array name="titles">
+    <item>YouTube</item>
+    <item>Blogger</item>
+    </array>
+
+    <array name="description">
+        <item>youtube description</item>
+        <item>Blogger description</item>
+    </array>
+</resources>
